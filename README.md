@@ -16,7 +16,7 @@ width="800"  height="3">
 
 - **Blog**：[山麋一笑の博客：一个分享和记录的地方](https://www.bojiboqi.fun)
 
--  <!-- dynamic typing effect 动态打字效果 -->
+<!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
     <a href="https://www.bojiboqi.fun">
