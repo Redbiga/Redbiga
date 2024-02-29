@@ -16,7 +16,7 @@ width="800"  height="3">
 
 - **Blog**：[山麋一笑の博客：一个分享和记录的地方](https://www.bojiboqi.fun)
 
-<!-- dynamic typing effect 动态打字效果 -->
+ <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
     <a href="https://www.bojiboqi.fun">
@@ -26,11 +26,10 @@ width="800"  height="3">
 
 ## <br>
 
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Redbig">
+:trophy: Github Stats:
+
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Redbiga">
 <img src="https://github-profile-trophy.vercel.app/?username=Redbiga">
-</details>
 
 - Feel free to contact me :yum:
 
