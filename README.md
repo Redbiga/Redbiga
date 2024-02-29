@@ -1,38 +1,42 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@山麋一笑?theme=gelbooru"></a>
+</p>
 
-### I'm Siwei Zhou
-
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
-
-### 🛠 技术栈 | Tech Stack
-
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-### 关于我
-- [技术笔记](https://www.bojiboqi.fun)
+<h1 align="center">
+  Hey, I'm ShanMiYiXiao!👏
+</h1>
 
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+<div align="center">
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="800"  height="3">
+</div>
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+- **Preview**：From Chengdu , China 🏝, love coding 🐍. A student 🏫，love anime. :ghost:
+
+- **Blog**：[山麋一笑の博客：一个分享和记录的地方](https://www.bojiboqi.fun)
+
+-  <!-- dynamic typing effect 动态打字效果 -->
+
+<div align="center">
+    <a href="https://www.bojiboqi.fun">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到山麋一笑的Github!;欢迎来到山麋一笑的Github!&center=true&size=27" alt="Typing SVG" />
+    </a>
+</div>
+
+## <br>
+
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Redbig">
+<img src="https://github-profile-trophy.vercel.app/?username=Redbiga">
+</details>
+
+- Feel free to contact me :yum:
+
+<a href="https://t.me/Shanmiyixiao" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40山麋一笑-28a8ea"></a><a href="mailto:3106607759@qq.com"><img src="https://img.shields.io/badge/Email-qq%403106607759-orange"></a><a href="https://www.bojiboqi.fun" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-bojiboqi.fun-red"></a>
+
+
+
+
+
